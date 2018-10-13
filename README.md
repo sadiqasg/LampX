@@ -1,1 +1,2 @@
-# LampX
+# LampX 
+- Simplyfing learning
